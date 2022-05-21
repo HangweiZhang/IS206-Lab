@@ -1,0 +1,5 @@
+Hello world!
+This is a test for UNIX
+client and server
+msgsnd and msgrcv
+over!
